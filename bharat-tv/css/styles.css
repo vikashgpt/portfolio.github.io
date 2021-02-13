@@ -1,0 +1,56 @@
+body{
+    background-color: #eff8ff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+i:hover{
+    color: #161d6f;
+}
+i{
+    font-weight: 100;
+    font-size: 1.1rem;
+    padding: 5px;
+}
+
+
+/* header section */
+
+
+header{
+    background-color: #2874f0;
+}
+
+.brand-logo{
+    width: 200px;
+    height: 40px;
+}
+
+
+/* banner section */
+.banner img{
+    height: 400px;
+    width: 100%;
+}
+/* services */
+
+.about-us,.brands,.testimonials{
+    background-color: #fff;
+}
+.services img{
+    height: 180px;
+    width: 300px;
+}
+
+
+.brands img{
+    height: 80px;
+    width: 200px;
+    margin: 10px;
+}
+
+/* footer section */
+.copyright{
+    background-color: black;
+    color: #fff;
+}
